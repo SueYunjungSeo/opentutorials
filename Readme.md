@@ -1,1 +1,1 @@
-Studying Git files
+Studying Git files수정합니다.
